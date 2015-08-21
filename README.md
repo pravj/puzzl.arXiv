@@ -1,12 +1,3 @@
-puzzl-paper
-===========
-
-> Paper\* that highlights technical details about the game [puzzl](https://github.com/pravj/puzzl)
-
-I just felt like writing the technical details in a paper's format, so here it is. tada. \o/.
-
-> \* If you can call it a paper.
-
 puzzl.arXiv
 ===========
 Implementing an intelligent version of the classical sliding-puzzle game for unix terminals using Golang's concurrency primitives
@@ -22,6 +13,6 @@ cross-platform compatibility of the programming language used.
 The game uses language’s concurrency primitives to simplify most of the hefty
 parts of the game. A *real-time notification delivery* architecture is developed
 using language’s built-in concurrency support, which performs similar to event
-based context aware invocations like we see on the web platform
+based *context aware invocations* like we see on the web platform
 
 > Although the version on arXiv is not yet latest, I'll update it soon.
