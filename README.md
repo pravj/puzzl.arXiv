@@ -2,7 +2,7 @@ puzzl.arXiv
 ===========
 Implementing an intelligent version of the classical sliding-puzzle game for unix terminals using Golang's concurrency primitives
 
-> [http://arxiv.org/abs/1503.08345](http://arxiv.org/abs/1503.08345)
+> [https://arxiv.org/submit/1332984/view](http://arxiv.org/abs/1503.08345)
 
 An intelligent version of the sliding-puzzle game is developed using the new
 *Go* programming language, which uses a concurrent version of the *A-star Informed Search Algorithm* to power solver-bot that runs in the background. The game
@@ -15,4 +15,4 @@ parts of the game. A *real-time notification delivery* architecture is developed
 using language’s built-in concurrency support, which performs similar to event
 based *context aware invocations* like we see on the web platform
 
-> Although the version on arXiv is not yet latest, I'll update it soon.
+> Customized version of the template [zhiyuanshi/pl-latex-templates](https://github.com/zhiyuanshi/pl-latex-templates)
